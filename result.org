@@ -1,0 +1,12 @@
+* graphs/ba-100-1000.dot
+random: 19.547
+random neighbor: 28.662838732449575
+* graphs/ba-100-500.dot
+random: 10.222
+random neighbor: 20.459923178247596
+* graphs/ba-1000-10000.dot
+random: 19.862
+random neighbor: 47.27649447697222
+* graphs/ba-1000-5000.dot
+random: 9.791
+random neighbor: 26.102491643763624
